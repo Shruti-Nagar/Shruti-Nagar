@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shruti-Nagar!
+- 👋 Hi, I’m Shruti Nagar!
 - I'm a Data Analytics enthusiast, passionate about exploring and analysing real-world datasets. Welcome to my Github profile.
 - My goal is to become a Data Analyst and despite my commerce degree I have studied the data tools and technology for last one and half year. I have good understanding of underlying tools and technologies
 
