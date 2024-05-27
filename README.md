@@ -12,6 +12,6 @@
 -	Tableau: KPI's, Charts, Filters, Parameters, Story Telling, Dashboard, Data Visualization
 -	Python(Basics): Python Basics, Descriptive Analysis, Exploratory Data Analysis, Libraries – Numpy, Pandas, Matplotlib, Seborn
 
-- 🌱 I’m currently learning Power BI tool and Statistics for data analytics
+- 🌱
 
 - Feel free to explore my repositories and reach out if you have any questions or suggestions. Thanks for visiting!
